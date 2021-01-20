@@ -1,3 +1,3 @@
 # gocloud-secrets-awssecretsmanager
 
-This is not ready to use yet.
+This package is no longer necessary. Please consult https://gocloud.dev/howto/runtimevar/#awssm instead.
